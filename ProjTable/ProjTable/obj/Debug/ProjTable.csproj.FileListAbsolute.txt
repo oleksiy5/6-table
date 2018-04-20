@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\bin\Debug\ProjTable.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\bin\Debug\ProjTable.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\bin\Debug\ProjTable.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\obj\Debug\ProjTable.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\obj\Debug\ProjTable.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\obj\Debug\ProjTable.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\6-table\ProjTable\ProjTable\obj\Debug\ProjTable.pdb
